@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "170435380640",
+    "firebase_url": "https://auth-a0058.firebaseio.com",
+    "project_id": "auth-a0058",
+    "storage_bucket": "auth-a0058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170435380640:android:aecbaed01a1b7027cbd0c5",
+        "android_client_info": {
+          "package_name": "br.com.mbcustom.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170435380640-67q9t4o8h83dk2nc3fid2bu7kp5qlmvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBKTsZqKmZnu2SOalJHObVxvA0VkGqMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170435380640-67q9t4o8h83dk2nc3fid2bu7kp5qlmvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
